@@ -1,0 +1,12 @@
+.accept-box {
+    background-color: #6c757d;
+    padding: 10px;
+    border-radius: 6px;
+    display: inline-block;
+}
+
+.accept-box label {
+    color: #ffffff;
+    margin-right: 15px;
+    cursor: pointer;
+}
